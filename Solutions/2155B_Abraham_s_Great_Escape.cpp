@@ -48,23 +48,5 @@ int main()
     return 0;
 }
 /*
-4
-2 4
-3 5
-2 3
-4 7
 
-YES
-UU
-UU
-YES
-UUU
-UUD
-RRL
-NO
-YES
-UUUU
-UUUD
-RRRL
-RRRL
 */
